@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\sh179\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Xiong Program\\CSharpObject\\学习项目\\WebApiCoreTestVsCode\\WebApiCoreTest\\WebApiCoreTest\\WebApiCoreTest.csproj",
+      "projectName": "WebApiCoreTest",
+      "projectPath": "C:\\Xiong Program\\CSharpObject\\学习项目\\WebApiCoreTestVsCode\\WebApiCoreTest\\WebApiCoreTest\\WebApiCoreTest.csproj",
+      "packagesPath": "C:\\Users\\sh179\\.nuget\\packages\\",
+      "outputPath": "C:\\Xiong Program\\CSharpObject\\学习项目\\WebApiCoreTestVsCode\\WebApiCoreTest\\WebApiCoreTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sh179\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\sh179\\Downloads": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.4.20258.7\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
