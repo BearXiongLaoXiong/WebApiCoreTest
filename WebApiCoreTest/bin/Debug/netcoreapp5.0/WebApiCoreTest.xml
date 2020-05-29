@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiCoreTest</name>
+    </assembly>
+    <members>
+        <member name="T:WebApiCoreTest.Controllers.LogInController">
+            <summary>
+            登陆用户啊
+            </summary>
+        </member>
+        <member name="M:WebApiCoreTest.Controllers.LogInController.Get(System.String,System.String)">
+            <summary>
+            Get注释走一波
+            </summary>
+            <param name="n">名字</param>
+            <param name="p">密码表</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
